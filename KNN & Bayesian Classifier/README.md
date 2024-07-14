@@ -7,7 +7,7 @@ e. It may not perform as well as other algorithms in high-dimensional spaces due
 f. KNN is not robust to irrelevant features.</p>
 
 <h1>Bayesian Classifier</h1>
-<p align="justify">Bayesian classifiers are probabilistic models that estimate the probability of each class label given the observed features using Bayesian theorem.<br/>
+<p align="justify">a.Bayesian classifiers are probabilistic models that estimate the probability of each class label given the observed features using Bayesian theorem.<br/>
 b. Bayesian classifiers assume that the features are conditionally independent given the class label.<br/>
 c. While this assumption may not always hold in practice, Bayesian classifiers are still effective in many classification tasks.<br/>
 d. Training Bayesian Classifier for continuous attributes involves computing the Probability Density Function (PDF). <br/>
