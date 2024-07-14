@@ -1,8 +1,8 @@
 <h1>Principal Component Analysis (PCA):</h1>
-<p align="justify">a. The principal components can be obtained via EVD on XXT ( where X is the training dataset). They are linear combinations of the original variables. <br/>
+<p align="justify">a. The principal components can be obtained via EVD on XX<sup>T</sup> ( where X is the training dataset). They are linear combinations of the original variables. <br/>
 b. The first principal component captures the most variation in the data. <br/>
 c. SVD is a factorization of a matrix into three matrices. <br/>
-d. Left singular vectors of X are the same as eigenvectors of XXT. <br/></p>
+d. Left singular vectors of X are the same as eigenvectors of XX<sup>T</sup>. <br/></p>
 
 <h1>Linear Discriminant Analysis (LDA):</h1>
 <p align="justify">a. LDA is a supervised dimensionality reduction technique used for feature extraction. <br/>
