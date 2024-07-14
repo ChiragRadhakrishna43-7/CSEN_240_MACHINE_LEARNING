@@ -10,5 +10,7 @@ Week 4: KNN & Bayesian Classifier <br/>
 <b>PART 2</b> <i>Unsupervised Machine Learning</i>: <br/>
 Week 5: Linear & Polynomial Regression <br/>
 Week 6: Logisitc Regression & K-Means <br/>
-Week 7: PCA & LDA <br/>
+Week 7: Dimensionality Reduction: PCA & LDA (supervised technique) <br/>
+
+<b>PART 3</b> <i>Neural Networks</i>: <br/>
 Week 8: ANN & CNN <br/>
